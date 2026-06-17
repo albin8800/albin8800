@@ -81,7 +81,7 @@
 ## 📫 Let’s Connect
 
 📍 **LinkedIn:** https://www.linkedin.com/in/albin-b-thomas-a385532b0/
-🌐 **Portfolio:** https://albinbthomas.netlify.app/
+🌐 **Portfolio:** https://albinbthomasportfolio.vercel.app/
 📧 **Email:** albinbthomas8800@gmail.com  
 
 ---
