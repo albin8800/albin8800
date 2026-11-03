@@ -34,7 +34,7 @@
 [SYSTEM_TELEMETRY]
 Engineer       = Albin B Thomas
 Specialization = Full-Stack Web Systems & Cloud Platform / DevOps Engineering
-Workstation    = HP Victus Gaming (12-Core, 16GB) | Dual-boot Xubuntu Linux / Windows 11
+Workstation    = HP Victus Gaming (6-Core, 8GB) | Dual-boot Xubuntu Linux / Windows 11
 Shell_Profile  = Bash / Zsh | Git Bash | Antigravity CLI | Claude Code | VS Code | Docker Desktop
 
 [ENGINEERING_METHODOLOGY]
